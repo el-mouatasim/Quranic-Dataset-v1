@@ -2,7 +2,7 @@
 Quranic Dataset v1: 'quranic_VN5_v1.csv'
 
 # Overview
-This dataset, 'quranic_VN5_v1.csv,' is derived from the Quranic Arabic Corpus v0.4 using text mining techniques to extract the five verb forms (الافعال الخمسة) and the five noun forms (الأسماء الخمسة) without diacritics.
+This dataset, 'quranic_VN5_v1.csv,' is derived from the Quranic Arabic Corpus v0.4 using text mining techniques to extract the five verb forms (الافعال الخمسة) and there  noun forms  without diacritics.
 # Features
 The dataset includes the following columns:
 1.	Column 1, 2: Verbs 'تفعلون' and their frequency
